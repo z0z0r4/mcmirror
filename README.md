@@ -1,4 +1,4 @@
-# mcmirror
+# Zmirror
 > **这里是[Zmirror](http://mcmirror.zclubserver.top/ "Zmirror")，一个Minecraft服务端镜像站**
   
 包含官方及多种第三方服务端，见列表
