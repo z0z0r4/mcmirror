@@ -11,7 +11,9 @@ Bukkit [spigot](https://www.spigotmc.org) | [craftbukkit](https://getbukkit.org/
 
 Sponge [spongevanilla 与 spongeforge](https://www.spongepowered.org/)
 
-Forge [catserver](https://catmc.org) | [mohist](https://mohistmc.com) | [loliserver](https://github.com/Loli-Server/LoliServer)
+Forge [catserver](https://catmc.org) | [mohist](https://mohistmc.com) | [loliserver](https://github.com/Loli-Server/LoliServer) | [arclight](https://github.com/IzzelAliz/Arclight)
+
+[Fabric Loader](http://fabricmc.net/)
 
 </details>
 
